@@ -1,0 +1,2102 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_in_",
+				"get_in_application_structure"
+			],
+			[
+				"assessment",
+				"assessment_details"
+			],
+			[
+				"team_qb__in",
+				"team_qb__in"
+			],
+			[
+				"request_",
+				"request_token"
+			],
+			[
+				"transcript",
+				"transcript_string"
+			],
+			[
+				"answer",
+				"answerable"
+			],
+			[
+				"resume",
+				"resume_file"
+			],
+			[
+				"chatbot_",
+				"chatbot_language"
+			],
+			[
+				"chatbot_lang",
+				"chatbot_language_code"
+			],
+			[
+				"chatbot",
+				"chatbot_language"
+			],
+			[
+				"的",
+				"的工作申请程序。"
+			],
+			[
+				"language",
+				"language_pack"
+			],
+			[
+				"searh",
+				"search_alias_id"
+			],
+			[
+				"skill_json",
+				"skill_json_path"
+			],
+			[
+				"skill_jso",
+				"skill_json_path"
+			],
+			[
+				"exc",
+				"Exception\texception"
+			],
+			[
+				"create",
+				"create_skill_links"
+			],
+			[
+				"question",
+				"questionsStr"
+			],
+			[
+				"search_",
+				"search_alias_id"
+			],
+			[
+				"search",
+				"search_alias_id"
+			],
+			[
+				"skill",
+				"skill_graph_skills"
+			],
+			[
+				"inter",
+				"interview_settings"
+			],
+			[
+				"skill_gra",
+				"skill_graph_part_dict"
+			],
+			[
+				"template",
+				"template_dict"
+			],
+			[
+				"skill_graph",
+				"skill_graph_specs"
+			],
+			[
+				"skill_",
+				"skill_graph_adaptor"
+			],
+			[
+				"detail",
+				"details_for_creation"
+			],
+			[
+				"update_",
+				"update_question_guidelines"
+			],
+			[
+				"sectionNum",
+				"sectionNumberStr"
+			],
+			[
+				"candidate",
+				"candidateSkills"
+			],
+			[
+				"DB_P",
+				"DB_PORT"
+			],
+			[
+				"prev",
+				"previousMatch"
+			],
+			[
+				"previous",
+				"previousMatch"
+			],
+			[
+				"get_pa",
+				"get_parent"
+			],
+			[
+				"exisit",
+				"existingNode"
+			],
+			[
+				"previousn",
+				"previousNodeName"
+			],
+			[
+				"linked",
+				"linked_nodes"
+			],
+			[
+				"curren",
+				"currentNode"
+			],
+			[
+				"previ",
+				"previousPathNode"
+			],
+			[
+				"newNode",
+				"newNodeBackSearch"
+			],
+			[
+				"humanize",
+				"humanizeText"
+			],
+			[
+				"human",
+				"humanizeText"
+			],
+			[
+				"new",
+				"newNodeBackSearch\tstatement"
+			],
+			[
+				"path",
+				"pathHead\tparam"
+			],
+			[
+				"skills",
+				"skillSkip\tstatement"
+			],
+			[
+				"set",
+				"set_skip\tfunction"
+			],
+			[
+				"sel",
+				"selectedPath\tstatement"
+			],
+			[
+				"short",
+				"shortestPath\tstatement"
+			],
+			[
+				"shor",
+				"shortestPath\tstatement"
+			],
+			[
+				"q",
+				"queryResult\tstatement"
+			],
+			[
+				"nodeL",
+				"nodeLayer"
+			],
+			[
+				"subjec",
+				"subject_matter"
+			],
+			[
+				"DOC",
+				"DOC_COLLECTION"
+			],
+			[
+				"condi",
+				"conditions"
+			],
+			[
+				"quest",
+				"questionContent\tstatement"
+			],
+			[
+				"format",
+				"formattedQuestion\tstatement"
+			],
+			[
+				"forma",
+				"formattedQuestion\tstatement"
+			],
+			[
+				"max",
+				"maxOffSet\tstatement"
+			],
+			[
+				"condition",
+				"condition_result"
+			],
+			[
+				"quet",
+				"questionDict\tstatement"
+			],
+			[
+				"brea",
+				"breath_first_search"
+			],
+			[
+				"alert",
+				"alertConfirmation\tfunction"
+			],
+			[
+				"time",
+				"timeOffset\tstatement"
+			],
+			[
+				"st",
+				"stationBObj\tstatement"
+			],
+			[
+				"stai",
+				"stationB\tstatement"
+			],
+			[
+				"route",
+				"routeKeyboard\tstatement"
+			],
+			[
+				"res",
+				"responseObj"
+			],
+			[
+				"req",
+				"requestResult\tstatement"
+			],
+			[
+				"tos",
+				"toStation"
+			],
+			[
+				"station",
+				"stationName"
+			],
+			[
+				"from",
+				"fromStation"
+			],
+			[
+				"passe",
+				"passengerInfo\tstatement"
+			],
+			[
+				"affectedStat",
+				"affectedStationBNumber\tstatement"
+			],
+			[
+				"stati",
+				"stationID\tparam"
+			],
+			[
+				"affe",
+				"affectedStationA\tparam"
+			],
+			[
+				"statio",
+				"stationIDSplit\tfunction"
+			],
+			[
+				"tra",
+				"trainStation"
+			],
+			[
+				"bot",
+				"botMessage"
+			],
+			[
+				"aff",
+				"affectedStationB\tparam"
+			],
+			[
+				"current",
+				"currentDate"
+			],
+			[
+				"toTime",
+				"toTimeFormatted\tstatement"
+			],
+			[
+				"form",
+				"formattedTime\tstatement"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"map",
+				"mapStyle"
+			],
+			[
+				"list",
+				"listName"
+			],
+			[
+				"remove",
+				"removeButton"
+			],
+			[
+				"fav",
+				"favourites"
+			],
+			[
+				"saveList",
+				"saveListSuccess"
+			],
+			[
+				"type",
+				"typeContainers"
+			],
+			[
+				"typeList",
+				"typeListItem"
+			],
+			[
+				"user",
+				"userEmail"
+			],
+			[
+				"chat",
+				"chartContainer"
+			],
+			[
+				"loc",
+				"locID"
+			],
+			[
+				"rat",
+				"ratingString"
+			],
+			[
+				"tw",
+				"twelveHour"
+			],
+			[
+				"most",
+				"mostPopTimeDayRow\tstatement"
+			],
+			[
+				"char",
+				"chartData"
+			],
+			[
+				"location",
+				"locationSummary"
+			],
+			[
+				"getFav",
+				"getFavourite"
+			],
+			[
+				"add",
+				"addFavouriteQuery\tstatement"
+			],
+			[
+				"Tr",
+				"transaction"
+			],
+			[
+				"reque",
+				"requestDict\tstatement"
+			],
+			[
+				"fetch",
+				"fetchall"
+			],
+			[
+				"get",
+				"getAllType\tfunction"
+			],
+			[
+				"avg",
+				"avgPop"
+			],
+			[
+				"popul",
+				"popularity"
+			],
+			[
+				"locatio",
+				"locationDetailQuery\tstatement"
+			],
+			[
+				"result",
+				"resultDict"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"typeEx",
+				"typeExistQuery"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"exi",
+				"existingTypes\tstatement"
+			],
+			[
+				"newD",
+				"newDataTypes\tstatement"
+			],
+			[
+				"newValue",
+				"newValueArray"
+			],
+			[
+				"sele",
+				"selectedDay"
+			],
+			[
+				"loca",
+				"locations"
+			],
+			[
+				"requ",
+				"requestDict\tstatement"
+			],
+			[
+				"update",
+				"updateLocationData"
+			],
+			[
+				"pop",
+				"popularity"
+			],
+			[
+				"hour",
+				"hourData"
+			],
+			[
+				"day",
+				"dayData"
+			],
+			[
+				"body",
+				"bodyContent"
+			],
+			[
+				"sear",
+				"searchResult\tstatement"
+			],
+			[
+				"getLo",
+				"getLocationTimePopularity\tfunction"
+			],
+			[
+				"selec",
+				"selectedLoc"
+			],
+			[
+				"click",
+				"clickedDay"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 982,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "firebase_connection.js",
+			"settings":
+			{
+				"buffer_size": 168,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "urls.js",
+			"settings":
+			{
+				"buffer_size": 162,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "api_urls.js",
+			"settings":
+			{
+				"buffer_size": 502,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/sia_api.js",
+			"settings":
+			{
+				"buffer_size": 5640,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Dong Xiang/Desktop/SIA/API.js",
+			"settings":
+			{
+				"buffer_size": 4728,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "{\n    \"status\": \"SUCCESS\",\n    \"code\": \"200\",\n    \"response\": {\n        \"origin\": {\n            \"airportCode\": \"SIN\",\n            \"airportName\": \"Changi\",\n            \"airportTerminal\": \"3\",\n            \"cityCode\": \"SIN\",\n            \"cityName\": \"Singapore\"\n        },\n        \"destination\": {\n            \"airportCode\": \"AKL\",\n            \"airportName\": \"Auckland\",\n            \"airportTerminal\": \"I\",\n            \"cityCode\": \"AKL\",\n            \"cityName\": \"Auckland\"\n        },\n        \"numberOfFlights\": 1,\n        \"flights\": [\n            {\n                \"origin\": {\n                    \"airportCode\": \"SIN\",\n                    \"airportName\": \"Changi\",\n                    \"airportTerminal\": \"3\",\n                    \"cityCode\": \"SIN\",\n                    \"cityName\": \"Singapore\"\n                },\n                \"destination\": {\n                    \"airportCode\": \"AKL\",\n                    \"airportName\": \"Auckland\",\n                    \"airportTerminal\": \"I\",\n                    \"cityCode\": \"AKL\",\n                    \"cityName\": \"Auckland\"\n                },\n                \"numberOfStops\": 0,\n                \"legs \": [\n                    {\n                        \"flightNumber \": \"285\",\n                        \"operatingAirlineCode\": \"SQ\",\n                        \"operatingAirlineName\": \"Singapore Airlines\",\n                        \"marketingAirlineCode \": \"SQ\",\n                        \"marketingAirlineName\": \"Singapore Airlines\",\n                        \"isFlightRenumbered\": false,\n                        \"isFlightRerouted\": false,\n                        \"flightStatus\": \"Arrived\",\n                        \"origin \": {\n                            \"airportCode \": \"SIN\",\n                            \"airportName \": \"Changi\",\n                            \"airportTerminal\": \"3\",\n                            \"cityCode\": \"SIN\",\n                            \"cityName\": \"Singapore\"\n                        },\n                        \"destination \": {\n                            \"airportCode\": \"AKL\",\n                            \"airportName \": \"Auckland\",\n                            \"airportTerminal\": \"I\",\n                            \"cityCode\": \"AKL\",\n                            \"cityName\": \"Auckland\"\n                        },\n                        \"scheduledDepartureTime\": \"2018-08-06T21:15:00\",\n                        \"scheduledArrivalTime\": \"2018-08-07T10:50:00\",\n                        \"estimatedArrivalTime \": \"2018-08-07T10:55:00\",\n                        \"actualDepartureTime\": \"2018-08-06T21:16:00\",\n                        \"actualArrivalTime\": \"2018-08-07T10:43:00\",\n                        \"aircraftType\": \"773\"\n                    }\n                ]\n            }\n        ]\n    }\n}",
+			"settings":
+			{
+				"buffer_size": 2726,
+				"line_ending": "Windows",
+				"name": "{"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 309,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"pretty prin",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pre",
+				"Project: Refresh Folders"
+			],
+			[
+				"validate",
+				"Pretty JSON: Validate"
+			],
+			[
+				"prety print",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pretty ",
+				"Pretty JSON: Validate"
+			],
+			[
+				"va",
+				"Pretty JSON: Validate"
+			],
+			[
+				"valid",
+				"Pretty JSON: Validate"
+			],
+			[
+				"valida",
+				"Pretty JSON: Validate"
+			],
+			[
+				"pretty pr",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"vali",
+				"Pretty JSON: Validate"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty print",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json pre",
+				"Pretty JSON: Validate"
+			],
+			[
+				"javascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"plain tex",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"PRETTY PRINT",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"json p",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"preview ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"set syntax mak",
+				"Set Syntax: Markdown"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"pretty pri",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prety",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"PRETTY PR",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"md",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"lint",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"md pr",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"m",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"linter en",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"lint dis",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"project",
+				"Project: Refresh Folders"
+			],
+			[
+				"error",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"anaconda",
+				"Anaconda: Vagrant Enable"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"prett",
+				"Pretty JSON: Validate"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"conver ",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"TABS",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"syntax : c",
+				"Set Syntax: C"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"picke",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"istall",
+				"Package Control: Install Package"
+			],
+			[
+				"packan",
+				"Package Control: Install Package"
+			],
+			[
+				"javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"package control",
+				"Package Control: List Packages"
+			],
+			[
+				"package contr",
+				"Package Control: Install Package"
+			],
+			[
+				"Package ControlRemove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 609.0
+	},
+	"console":
+	{
+		"height": 137.0,
+		"history":
+		[
+			"python",
+			"cd desktop",
+			"run ",
+			"cd",
+			"show",
+			"menu",
+			"show menu"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Dong Xiang/Desktop/SIA/server"
+	],
+	"file_history":
+	[
+		"/C/Users/Dong Xiang/Desktop/SIA/server/views/admin_api_views.js",
+		"/C/Users/Dong Xiang/Desktop/SchoolEtc/skillCraft/skillCraftProject/routes/main.js",
+		"/C/Users/Dong Xiang/Desktop/SIA/server/package.json",
+		"/C/Users/Dong Xiang/Desktop/SchoolEtc/skillCraft/skillCraftProject/emailUtils.js",
+		"/C/Users/Dong Xiang/Desktop/SchoolEtc/skillCraft/skillCraftProject/routes/ajax.js",
+		"/C/Users/Dong Xiang/Desktop/SchoolEtc/skillCraft/skillCraftProject/routes/index.js",
+		"/C/Users/Dong Xiang/Desktop/SIA/server/firebase_connection",
+		"/C/Users/Dong Xiang/Desktop/SchoolEtc/skillCraft/skillCraftProject/app.js",
+		"/C/Users/Dong Xiang/Desktop/SIA/server/sia_index.js",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/bot_scripts/Business Analyst at GovTech (backup).json",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/bot_scripts/Singtel Management Associate Programme 2019",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/bot_scripts/MEA Job Tree - ChapmanCG(backup).json",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/bot_scripts/ma-china.json",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/mail_files/income/custom_mail.txt",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/mail_files/income/custom_mail.html",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/local_with_qb/html_widget/models.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/local_with_qb/html_widget/invitation_views.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/local_with_qb/docker-compose.yml",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/local_with_qb/question_bank/api_views.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/local_with_qb/html_widget/backend_utils.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/local_with_qb/html_widget/urls.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/local_with_qb/question_bank/urls.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/Associate at Keppel.json",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/Associate at Keppel",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/local_with_qb/question_bank/models.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/uat-chat-assess_json.json",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/local_with_qb/question_bank/views.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/local_with_qb/question_bank/question_utils.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/Associate at Keppel (backup)",
+		"/C/Users/Dong Xiang/Downloads/uat-chat-assess_json.js",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/question_bank_assessment.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/reply_factories.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/models.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/signals.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/question_bank/models.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/skill_graph_assessment.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/docker-compose.yml",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/question_bank/serializers.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/question_bank/urls.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/question_bank/api_views.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/templates/question_bank/question_form.html",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/yomamabot/settings.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/question_bank/views.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/chat_assessment_utils.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/backend_utils.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/question_bank/migrations/0001_initial.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/question_bank/migrations/0002_auto_20180820_1921.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/question_bank/migrations/0002_auto_20180820_2018.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/tasks.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/handlers.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/question_bank/admin.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/question_bank/permissions.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/admin_views.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/templates/question_bank/question_detail.html",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/question_bank/question_utils.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/templates/question_bank/question_confirm_delete.html",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/templates/question_bank/question_list.html",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/templates/question_bank/question_list_client.html",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/urls.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/static/ymmb/js/chatbot-creation/chatbot-creation.js",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/Business Analyst at GovTech (backup).json",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/grasshopper_dev.json",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/Singtel Management Associate Programme 2019",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/evaluate_answer_utils.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/templates/question_bank/topic_list.html",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/yomamabot/urls.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/api_views.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/candidate_views.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/api_permissions.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/.env",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/requirements.txt",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/activity_utils.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/neptuneTest/neptuneTest.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/api_urls.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/impress_team_member_api_views.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/client_api_views.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/client_faq_views.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/ma-china.json",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/pli_assessment_adapter.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/under_review_views.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/client_views.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/templates/html_widget/client_candidate_query_list_chatbot.html",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/general_utils.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/integration_development/docker-compose.yml",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/nlp_utils.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/static/ymmb/ymmb-new/pages/under_review/under_review.js",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/templates/html_widget/client_job_dashboard_detailed_report.html",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/static/ymmb/ymmb-new/css/under_review.css",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/static/ymmb/ymmb-new/css/google-font-opensans.css",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/external_assessments.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/hackertrail_adapter.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/pi_assessment_adapter.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/candidate_status_utils.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/post_interview_utils.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/Script_of_Americas_Chapman_bot.js",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/help_files/impress_interview_templateing_language.md",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/analytics_models_interface.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/sonru_adapter.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/chat_assessment_readme.md",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/manage_team_views.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/bot_views.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/impressai-bots-json/Grasshopper/nighttraders-2.json",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/static/ymmb/js/internal-chatbox.js",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/website_utils.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/nighttraders-2.json",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question bank README.md",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/ncss_evaluation_causes.json",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/-.json",
+		"/C/Users/Dong Xiang/Downloads/cara-v2.json",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/interviewJSONFormat.json",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/chinese_interview.json",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/assessmentStructureGenerated.json",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/assessmentStructure.json",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/consumers.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/analytics_utils.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/analytics_views.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/impress_local/html_widget/avatar_views.pyc",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/translationdoc.md",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/chat_assessment_readme",
+		"/C/Users/Dong Xiang/Downloads/e_scooter people _ Google Search/bb_Test.json",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/question_bank.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/chat_assessment.py",
+		"/C/Users/Dong Xiang/Downloads/- (4).js",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/integration_local_edit_script/.env",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/internal_assessment.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/html_widget/impress_assessment.py",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/question_back_integration/question_bank.sublime-project",
+		"/C/Users/Dong Xiang/Desktop/skill_graph/integration_local/html_widget/question_back.py"
+	],
+	"find":
+	{
+		"height": 40.8
+	},
+	"find_in_files":
+	{
+		"height": 164.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\Dong Xiang\\Desktop\\SIA\\server"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 982,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								506,
+								506
+							]
+						],
+						"settings":
+						{
+							"SL.178.region_keys":
+							[
+							],
+							"SL.179.region_keys":
+							[
+							],
+							"SL.307.region_keys":
+							[
+							],
+							"SL.34.region_keys":
+							[
+							],
+							"SL.48.region_keys":
+							[
+							],
+							"SL.97.region_keys":
+							[
+							],
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "firebase_connection.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 168,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"SL.179.region_keys":
+							[
+							],
+							"SL.198.region_keys":
+							[
+							],
+							"SL.217.region_keys":
+							[
+							],
+							"SL.235.region_keys":
+							[
+							],
+							"SL.35.region_keys":
+							[
+							],
+							"SL.72.region_keys":
+							[
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "urls.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"SL.180.region_keys":
+							[
+							],
+							"SL.199.region_keys":
+							[
+							],
+							"SL.36.region_keys":
+							[
+							],
+							"SL.49.region_keys":
+							[
+							],
+							"SL.99.region_keys":
+							[
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "api_urls.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"SL.100.region_keys":
+							[
+							],
+							"SL.181.region_keys":
+							[
+							],
+							"SL.200.region_keys":
+							[
+							],
+							"SL.37.region_keys":
+							[
+							],
+							"SL.50.region_keys":
+							[
+							],
+							"auto_name": "",
+							"history_list_is_closing": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "views/sia_api.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5640,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								962,
+								962
+							]
+						],
+						"settings":
+						{
+							"SL.204.region_keys":
+							[
+							],
+							"SL.222.region_keys":
+							[
+							],
+							"SL.240.region_keys":
+							[
+							],
+							"SL.40.region_keys":
+							[
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 18.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "/C/Users/Dong Xiang/Desktop/SIA/API.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4728,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"SL.183.region_keys":
+							[
+							],
+							"SL.184.region_keys":
+							[
+							],
+							"SL.202.region_keys":
+							[
+							],
+							"SL.39.region_keys":
+							[
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2726,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2268,
+								2268
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								309,
+								309
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.547916666667,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 96.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app.",
+				"app.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"api views",
+				"views\\admin_api_views.js"
+			],
+			[
+				"sia",
+				"views\\sia_api.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"app",
+				"app.js"
+			],
+			[
+				"govtec",
+				"bot_scripts\\Business Analyst 1 at GovTech.json"
+			],
+			[
+				"back",
+				"html_widget\\backend_utils.py"
+			],
+			[
+				"url",
+				"yomamabot\\urls.py"
+			],
+			[
+				"external assessment",
+				"templates\\html_widget\\client_external_assessment_page.html"
+			],
+			[
+				"api view",
+				"html_widget\\api_views.py"
+			],
+			[
+				"model",
+				"html_widget\\models.py"
+			],
+			[
+				"views.",
+				"question_bank\\views.py"
+			],
+			[
+				"",
+				"question_bank\\api_views.py"
+			],
+			[
+				"apiviews",
+				"question_bank\\api_views.py"
+			],
+			[
+				"docker",
+				"docker-compose.yml"
+			],
+			[
+				"setting",
+				"yomamabot\\settings.py"
+			],
+			[
+				"signal",
+				"html_widget\\signals.py"
+			],
+			[
+				"chat",
+				"html_widget\\chat_assessment_utils.py"
+			],
+			[
+				"sign",
+				"html_widget\\signals.py"
+			],
+			[
+				"permission",
+				"question_bank\\permissions.py"
+			],
+			[
+				"api",
+				"question_bank\\api_views.py"
+			],
+			[
+				"question",
+				"html_widget\\question_bank_assessment.py"
+			],
+			[
+				"skill",
+				"html_widget\\skill_graph_assessment.py"
+			],
+			[
+				"docker-",
+				"docker-compose.yml"
+			],
+			[
+				"se",
+				"question_bank\\serializers.py"
+			],
+			[
+				"ser",
+				"question_bank\\serializers.py"
+			],
+			[
+				"vi",
+				"question_bank\\views.py"
+			],
+			[
+				"ques",
+				"html_widget\\question_bank_assessment.py"
+			],
+			[
+				"urls",
+				"question_bank\\urls.py"
+			],
+			[
+				"questio",
+				"html_widget\\question_bank_assessment.py"
+			],
+			[
+				"seri",
+				"question_bank\\serializers.py"
+			],
+			[
+				"viwe",
+				"question_bank\\views.py"
+			],
+			[
+				"sig",
+				"html_widget\\signals.py"
+			],
+			[
+				"0002_auto_20180820_2018",
+				"question_bank\\migrations\\0002_auto_20180820_2018.py"
+			],
+			[
+				"0002",
+				"question_bank\\migrations\\0002_auto_20180820_1921.py"
+			],
+			[
+				"settings",
+				"yomamabot\\settings.py"
+			],
+			[
+				"seria",
+				"question_bank\\serializers.py"
+			],
+			[
+				"question .html",
+				"templates\\question_bank\\question_form.html"
+			],
+			[
+				"per",
+				"question_bank\\permissions.py"
+			],
+			[
+				"permii",
+				"question_bank\\permissions.py"
+			],
+			[
+				"backend",
+				"html_widget\\backend_utils.py"
+			],
+			[
+				"admin",
+				"question_bank\\admin.py"
+			],
+			[
+				"admin vi",
+				"html_widget\\admin_views.py"
+			],
+			[
+				"backe",
+				"html_widget\\backend_utils.py"
+			],
+			[
+				"chatbot crea",
+				"static\\ymmb\\js\\chatbot-creation\\chatbot-creation.js"
+			],
+			[
+				"chatbot",
+				"static\\ymmb\\js\\chatbot-creation\\chatbot-creation.js"
+			],
+			[
+				"question form",
+				"templates\\question_bank\\question_form.html"
+			],
+			[
+				"vie",
+				"question_bank\\views.py"
+			],
+			[
+				"sett",
+				"yomamabot\\settings.py"
+			],
+			[
+				"urls.",
+				"question_bank\\urls.py"
+			],
+			[
+				"docker-c",
+				"docker-compose.yml"
+			],
+			[
+				"models",
+				"question_bank\\models.py"
+			],
+			[
+				"url.py",
+				"yomamabot\\urls.py"
+			],
+			[
+				"views",
+				"html_widget\\candidate_views.py"
+			],
+			[
+				"urlsp",
+				"question_bank\\urls.py"
+			],
+			[
+				"permissions",
+				"question_bank\\permissions.py"
+			],
+			[
+				"urls.py",
+				"question_bank\\urls.py"
+			],
+			[
+				"requi",
+				"requirements.txt"
+			],
+			[
+				"utils",
+				"html_widget\\activity_utils.py"
+			],
+			[
+				"permiss",
+				"html_widget\\api_permissions.py"
+			],
+			[
+				"candidate",
+				"html_widget\\candidate_views.py"
+			],
+			[
+				".e",
+				".env"
+			],
+			[
+				".en",
+				".env"
+			],
+			[
+				"pli",
+				"html_widget\\pli_assessment_adapter.py"
+			],
+			[
+				"client_candidate_query_list_chatbot.html",
+				"templates\\html_widget\\client_candidate_query_list_chatbot.html"
+			],
+			[
+				"nlp",
+				"html_widget\\nlp_utils.py"
+			],
+			[
+				"under review css",
+				"static\\ymmb\\ymmb-new\\css\\under_review.css"
+			],
+			[
+				"client job das",
+				"templates\\html_widget\\client_job_dashboard_detailed_report.html"
+			],
+			[
+				"google",
+				"static\\ymmb\\ymmb-new\\css\\google-font-opensans.css"
+			],
+			[
+				"review ",
+				"static\\ymmb\\ymmb-new\\pages\\under_review\\under_review.js"
+			],
+			[
+				"chat ass",
+				"html_widget\\chat_assessment_utils.py"
+			],
+			[
+				"exter",
+				"html_widget\\external_assessments.py"
+			],
+			[
+				"eva",
+				"html_widget\\evaluate_answer_utils.py"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"api_url",
+				"html_widget\\api_urls.py"
+			],
+			[
+				"sonru",
+				"html_widget\\sonru_adapter.py"
+			],
+			[
+				"requ",
+				"requirements.txt"
+			],
+			[
+				"backen",
+				"html_widget\\backend_utils.py"
+			],
+			[
+				"internal",
+				"static\\ymmb\\js\\internal-chatbox.js"
+			],
+			[
+				"general",
+				"html_widget\\general_utils.py"
+			],
+			[
+				"evalua",
+				"html_widget\\evaluate_answer_utils.py"
+			],
+			[
+				"require",
+				"requirements.txt"
+			],
+			[
+				"env",
+				".env"
+			],
+			[
+				"setti",
+				"yomamabot\\settings.py"
+			],
+			[
+				"moe",
+				"html_widget\\models.py"
+			],
+			[
+				"quest",
+				"html_widget\\question_bank_assessment.py"
+			],
+			[
+				"qustion",
+				"html_widget\\question_bank.py"
+			],
+			[
+				"reply",
+				"html_widget\\reply_factories.py"
+			],
+			[
+				"consume",
+				"html_widget\\consumers.py"
+			],
+			[
+				"option",
+				"html_widget\\option_answer_required_functions.py"
+			],
+			[
+				"pdf",
+				"html_widget\\pdf_utils.py"
+			],
+			[
+				"web",
+				"html_widget\\website_utils.py"
+			],
+			[
+				"export",
+				"html_widget\\export_views.py"
+			],
+			[
+				"context",
+				"html_widget\\context_processors.py"
+			],
+			[
+				"websiteu",
+				"html_widget\\website_utils.py"
+			],
+			[
+				"handlers",
+				"html_widget\\handlers.py"
+			],
+			[
+				"django",
+				"locale\\zn_hans\\LC_MESSAGES\\django.po"
+			],
+			[
+				"exportv",
+				"html_widget\\export_views.py"
+			],
+			[
+				"djangojs.po",
+				"locale\\zn_hans\\LC_MESSAGES\\djangojs.po"
+			],
+			[
+				"djangojs",
+				"locale\\zn_hans\\LC_MESSAGES\\djangojs.mo"
+			],
+			[
+				"interna",
+				"static\\ymmb\\js\\internal-chatbox.js"
+			],
+			[
+				"chatbot-crea",
+				"static\\ymmb\\js\\chatbot-creation\\chatbot-creation.js"
+			],
+			[
+				"views.py",
+				"html_widget\\views.py"
+			],
+			[
+				"create",
+				"html_widget\\create_chatbot_views.py"
+			],
+			[
+				"chatbotcreat",
+				"static\\ymmb\\js\\chatbot-creation\\chatbot-creation.js"
+			],
+			[
+				"json",
+				"html_widget\\json_to_internal_adapter.py"
+			],
+			[
+				"chatbot.",
+				"templates\\html_widget\\chatbot.html"
+			],
+			[
+				"b",
+				"html_widget\\backend_utils.py"
+			],
+			[
+				"django.po",
+				"locale\\zn_hans\\LC_MESSAGES\\django.po"
+			],
+			[
+				"hander",
+				"html_widget\\handlers.py"
+			],
+			[
+				"website",
+				"html_widget\\website_utils.py"
+			],
+			[
+				"createchatbot",
+				"templates\\html_widget\\client_create_chatbot.html"
+			],
+			[
+				"dock",
+				"Dockerfile"
+			],
+			[
+				"bot",
+				"html_widget\\bot_views.py"
+			],
+			[
+				"externa",
+				"html_widget\\external_assessments.py"
+			],
+			[
+				"req",
+				"requirements.txt"
+			],
+			[
+				"custom",
+				"static\\ymmb\\ymmb-new\\css\\custom.css"
+			],
+			[
+				"customcssma",
+				"static\\ymmb\\ymmb-new\\css\\custom.css.map"
+			],
+			[
+				"consumer",
+				"html_widget\\consumers.py"
+			],
+			[
+				"activ",
+				"html_widget\\language_activator.py"
+			],
+			[
+				"candida",
+				"html_widget\\candidate_views.py"
+			],
+			[
+				"rep",
+				"html_widget\\reply_factories.py"
+			],
+			[
+				"invitat",
+				"html_widget\\invitation_views.py"
+			],
+			[
+				"internaladap",
+				"html_widget\\json_to_internal_adapter.py"
+			],
+			[
+				"djangojs.",
+				"locale\\zn_hans\\LC_MESSAGES\\djangojs.po"
+			],
+			[
+				"chat.html",
+				"templates\\html_widget\\chatbot.html"
+			],
+			[
+				"activator",
+				"html_widget\\language_activator.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 656.8,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Dong Xiang\\Desktop\\ICT3104-SoftwareManagement\\assignment\\ict3104SoftwareManagement.sublime-project"
+			],
+			[
+				"team",
+				"C:\\Users\\Dong Xiang\\Desktop\\skill_graph\\fetch_team_api\\team-api.sublime-workspace"
+			],
+			[
+				"s",
+				"C:\\Users\\Dong Xiang\\Desktop\\skill_graph\\skill_graph_integration\\skill_graph_integration.sublime-project"
+			],
+			[
+				"about",
+				"C:\\Users\\Dong Xiang\\Desktop\\skill_graph\\about-us-api\\about-us-api.sublime-workspace"
+			],
+			[
+				"fet",
+				"C:\\Users\\Dong Xiang\\Desktop\\skill_graph\\fetch_team_api\\team-api.sublime-project"
+			],
+			[
+				"profil",
+				"C:\\Users\\Dong Xiang\\Desktop\\skill_graph\\profile-api-end-point\\profile-api-end-point.sublime-project"
+			],
+			[
+				"skillcra",
+				"C:\\Users\\Dong Xiang\\Desktop\\skillCraft\\skillCraftProject\\sc.sublime-workspace"
+			],
+			[
+				"k",
+				"C:\\Users\\Dong Xiang\\Desktop\\skillCraft\\skillCraftProject\\skillCraft.sublime-workspace"
+			]
+		],
+		"width": 483.2
+	},
+	"select_symbol":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 733.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
